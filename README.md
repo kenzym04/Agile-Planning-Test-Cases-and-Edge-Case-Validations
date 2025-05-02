@@ -1,7 +1,5 @@
 # Kyosk QA Test
 
-## Take Home Test Contents
-
 ## Workbook#1: Agile Epics User Stories and Test Cases_V1
 
 - Worksheet#1: Product Backlog
