@@ -1,4 +1,4 @@
-# Kyosk QA Test
+# QA Artifacts: Agile Planning, Test Cases and Edge Case Validations
 
 ## Workbook#1: Agile Epics User Stories and Test Cases_V1
 
